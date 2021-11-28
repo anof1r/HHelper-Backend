@@ -13,7 +13,6 @@ public class MaterialContent {
     MaterialContent() {
     }
 
-
     public void setContent(String content) {
         this.content = content;
     }
@@ -28,6 +27,10 @@ public class MaterialContent {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    public int getId() {
+        return id;
     }
 
     public int getImageId() {
