@@ -13,8 +13,10 @@ repositories {
 }
 
 dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-web'
-	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:2.5.6'
+	implementation 'org.springframework.boot:spring-boot-starter-web:2.5.6'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test:2.5.6'
+	implementation 'com.google.code.gson:gson:2.8.9'
 }
 
 test {
