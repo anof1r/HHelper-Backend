@@ -1,0 +1,38 @@
+{
+  "literature": [
+    "Book1 бук1 чтоб тест \nhttp://book1.ru",
+    "rxJava туторы по обзервблам \nhttp://book2.ru",
+    "Kotlin в действии \nhttp://book3.ru"
+  ],
+  "schedule": "Расписание на неделю:\nПонедельник - 18.00 до 21.00,\nСреда - 18.00 до 21.00,\nЧетверг - 18.00 до 21.00",
+  "links": [
+    {
+      "description": "link1",
+      "href": "http://link1.ru"
+    },
+    {
+      "description": "link2",
+      "href": "http://link2.ru"
+    },
+    {
+      "description": "link3",
+      "href": "http://link3.ru"
+    },
+    {
+      "description": "W3school guides for lamers",
+      "href": "https://www.w3schools.com/tags/tryit.asp?filename\u003dtryhtml_option"
+    },
+    {
+      "description": "WebView lesson",
+      "href": "https://www.youtube.com/watch?v\u003dTUXui5ItBkM"
+    },
+    {
+      "description": "Хз чего",
+      "href": "https://www.w3schools.com/tags/tryit.asp?filename\u003dtryhtml_option"
+    },
+    {
+      "description": "чо тут вк делает?",
+      "href": "https://vk.com/im?peers\u003d113021568_157786891_155613981_152892716\u0026sel\u003d133087862"
+    }
+  ]
+}

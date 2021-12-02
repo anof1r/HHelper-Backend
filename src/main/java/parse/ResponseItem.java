@@ -8,7 +8,7 @@ public class ResponseItem{
 	private String date;
 
 	@SerializedName("imageId")
-	private int imageId;
+	private int imgId;
 
 	@SerializedName("homeWork")
 	private String homeWork;
@@ -27,7 +27,7 @@ public class ResponseItem{
 	}
 
 	public int getImageId(){
-		return imageId;
+		return imgId;
 	}
 
 	public String getHomeWork(){

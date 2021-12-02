@@ -1,10 +1,9 @@
 package com.harmanspring.HHelper;
 
-import com.fasterxml.jackson.databind.util.JSONPObject;
 
 public class MaterialContent {
     private int id;
-    private int imageId;
+    private int imgId;
     private String date;
     private String title;
     private String content;
@@ -18,7 +17,7 @@ public class MaterialContent {
     }
 
     public void setImageId(int imageId) {
-        this.imageId = imageId;
+        this.imgId = imageId;
     }
 
     public void setTitle(String title) {
@@ -29,12 +28,12 @@ public class MaterialContent {
         this.id = id;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
     public int getImageId() {
-        return imageId;
+        return imgId;
     }
 
     public String getContent() {

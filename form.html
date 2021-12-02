@@ -1,3 +1,46 @@
+
+<style>
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[textarea=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #43afee;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #7bcaee;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  </style>
+  
 <meta charset="utf-8">
 <form action= "http://localhost:8080/form" method="get">
   <label for="title">Title:</label>
@@ -13,7 +56,7 @@
     <option value="2131230893" selected>rxJava</option>
     <option value="2131230805" selected>Android Studio</option>
     <option value="2131230840" selected>Git</option> </select></p>
-
+    <label for="imageId">Date:</label>
   <input type="date" id="date" name="date"><br><br>
   <label for="id">Home Work:</label>
   <input type="text" id="hw" name="hw"><br><br>
