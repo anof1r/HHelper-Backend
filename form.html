@@ -42,7 +42,8 @@
   </style>
   
 <meta charset="utf-8">
-<form action= "http://localhost:8080/form" method="get">
+<!--<form action= "http://95.79.162.102:8080/form" method="get">-->
+  <form action= "http://192.168.0.4:8080/form" method="get">
   <label for="title">Title:</label>
   <input type="text" id="title" name="title"><br><br>
   <label for="content">Content:</label>
@@ -52,10 +53,10 @@
 
   <label for="imageId">Image:</label>
   <p><select id="imageId" name="imgId"</p>
-    <option value="2131230857" selected>Kotlin</option>
-    <option value="2131230893" selected>rxJava</option>
-    <option value="2131230805" selected>Android Studio</option>
-    <option value="2131230840" selected>Git</option> </select></p>
+    <option value="kotlin" selected>Kotlin</option>
+    <option value="rxjava" selected>rxJava</option>
+    <option value="android" selected>Android Studio</option>
+    <option value="git" selected>Git</option> </select></p>
     <label for="imageId">Date:</label>
   <input type="date" id="date" name="date"><br><br>
   <label for="id">Home Work:</label>
@@ -63,7 +64,8 @@
   <input type="submit" value="Submit">
 </form>
 <br><br>
-<form action= "http://localhost:8080/updateInfo" method="get">
+<form action= "http://192.168.0.4:8080/updateInfo" method="get">
+ <!--<form action= "http://95.79.162.102:8080/updateInfo" method="get">-->
   <label for="title">Update Literature link:</label>
   <textarea ="text" id="literature" name="literature"></textarea><br><br>
   <label for="content">Schedule update:</label>

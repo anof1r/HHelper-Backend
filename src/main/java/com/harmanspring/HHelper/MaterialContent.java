@@ -3,7 +3,7 @@ package com.harmanspring.HHelper;
 
 public class MaterialContent {
     private int id;
-    private int imgId;
+    private String imgId;
     private String date;
     private String title;
     private String content;
@@ -16,7 +16,7 @@ public class MaterialContent {
         this.content = content;
     }
 
-    public void setImageId(int imageId) {
+    public void setImageId(String imageId) {
         this.imgId = imageId;
     }
 
@@ -32,7 +32,7 @@ public class MaterialContent {
         return id;
     }
 
-    public int getImageId() {
+    public String getImageId() {
         return imgId;
     }
 

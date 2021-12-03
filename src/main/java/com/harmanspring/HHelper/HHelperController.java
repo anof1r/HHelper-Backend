@@ -57,7 +57,7 @@ public class HHelperController {
     @ResponseBody
     public ArrayList<MaterialContent> addMaterial(String title,
                                                   String content,
-                                                  int imgId,
+                                                  String imgId,
                                                   int id,
                                                   String hw,
                                                   String date) throws IOException {
