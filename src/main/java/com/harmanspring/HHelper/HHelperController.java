@@ -71,7 +71,7 @@ public class HHelperController {
         material.setDate(date);
         material.setImageId(imgId);
         materialList.add(material);
-        Gson gson = new Gson();
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String materialJson = gson.toJson(materialList);
         Path fileName = Path.of(jsonPath);
         Files.writeString(fileName, materialJson);
