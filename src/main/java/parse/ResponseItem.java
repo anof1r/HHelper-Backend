@@ -14,7 +14,7 @@ public class ResponseItem{
 	private String homeWork;
 
 	@SerializedName("id")
-	private int id;
+	private Integer id;
 
 	@SerializedName("title")
 	private String title;

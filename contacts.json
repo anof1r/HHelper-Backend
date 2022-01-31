@@ -1,0 +1,26 @@
+[
+  {
+    "contactNumber": "+79200547185",
+    "contactName": "Anofriev Denis",
+    "contactPosition": "Android Intern",
+    "contactEmail": "anofriev.denis@gmail.com",
+    "contactTelegram": "@anof1r",
+    "contactImage": "anof1r"
+  },
+  {
+    "contactNumber": "+79200322322",
+    "contactName": "Goncharov Maxim",
+    "contactPosition": "Middle C++ Developer",
+    "contactEmail": "max.goncharov@gmail.com",
+    "contactTelegram": "@MaxCharlington",
+    "contactImage": "max"
+  },
+  {
+    "contactNumber": "+79200123123",
+    "contactName": "Kakabaev Timur",
+    "contactPosition": "Junior C++ Developer",
+    "contactEmail": "kakabaev.tim@gmail.com",
+    "contactTelegram": "@KakabaevTim",
+    "contactImage": "tim"
+  }
+]

@@ -2,7 +2,7 @@ package com.harmanspring.HHelper;
 
 
 public class MaterialContent {
-    private int id;
+    private Integer id;
     private String imgId;
     private String date;
     private String title;

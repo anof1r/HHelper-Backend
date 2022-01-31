@@ -9,5 +9,4 @@ public class HandlingFormSubmissionApplication {
     public static void main(String[] args) {
         SpringApplication.run(HandlingFormSubmissionApplication.class, args);
     }
-
 }
