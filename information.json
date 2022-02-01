@@ -2,33 +2,21 @@
   "literature": [
     "С 0 до Scrum master легко \nhttp://book1.ru",
     "Agile как он есть \nhttp://book2.ru",
-    "Kotlin в действии \nhttp://book3.ru",
+    "Kotlin в действии \nhttp://book3.ru"
   ],
   "schedule": "Расписание на неделю:\nПонедельник - 18.00 до 21.00,\nСреда - 18.00 до 21.00,\nЧетверг - 18.00 до 21.00",
   "links": [
     {
-      "description": "link1",
-      "href": "http://link1.ru"
+      "description": "Github ссылка Java",
+      "href": "https://github.com/YaSnnO/Internship_Java_oct_2021"
     },
     {
-      "description": "link2",
-      "href": "http://link2.ru"
+      "description": "Github rxjava",
+      "href": " https://github.com/dbolgarc/TMDB_Example"
     },
     {
-      "description": "link3",
-      "href": "http://link3.ru"
-    },
-    {
-      "description": "W3school guides for lamers",
-      "href": "https://www.w3schools.com/tags/tryit.asp?filename\u003dtryhtml_option"
-    },
-    {
-      "description": "WebView lesson",
-      "href": "https://www.youtube.com/watch?v\u003dTUXui5ItBkM"
-    },
-    {
-      "description": "Управление IT проектами",
-      "href": "https://openedu.ru/course/hse/ITPRO/"
+      "description": "Ссылка на материалы тренинга по Андроид",
+      "href": "https://drive.google.com/file/d/1Kc6GGiccx-fp9Zh1vYtR43-QprmcAAnd/view?usp=sharing"
     }
   ]
 }

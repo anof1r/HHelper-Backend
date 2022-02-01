@@ -8,19 +8,27 @@
     "contactImage": "anof1r"
   },
   {
-    "contactNumber": "+79200322322",
-    "contactName": "Goncharov Maxim",
-    "contactPosition": "Middle C++ Developer",
-    "contactEmail": "max.goncharov@gmail.com",
-    "contactTelegram": "@MaxCharlington",
-    "contactImage": "max"
+    "contactNumber": "+7**********",
+    "contactName": "Uhanov Maxim",
+    "contactPosition": "Android coach",
+    "contactEmail": "Maxim.Ukhanov@harman.com",
+    "contactTelegram": "@maxim_ukhanov",
+    "contactImage": "contact"
   },
   {
-    "contactNumber": "+79200123123",
-    "contactName": "Kakabaev Timur",
-    "contactPosition": "Junior C++ Developer",
-    "contactEmail": "kakabaev.tim@gmail.com",
-    "contactTelegram": "@KakabaevTim",
-    "contactImage": "tim"
+    "contactNumber": "+7**********",
+    "contactName": "Dubrov Denis",
+    "contactPosition": "Kotlin coach",
+    "contactEmail": "Denis.Dubrov@harman.com",
+    "contactTelegram": "@*******",
+    "contactImage": "contact"
+  },
+  {
+    "contactNumber": "+7**********",
+    "contactName": "Spirin Andrey",
+    "contactPosition": "Java coach",
+    "contactEmail": "Andrey.Spirin@harman.com",
+    "contactTelegram": "@*******",
+    "contactImage": "contact"
   }
 ]

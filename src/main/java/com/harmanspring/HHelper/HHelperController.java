@@ -123,7 +123,7 @@ public class HHelperController {
     public Info updateInfo(String literature,
                            String schedule, String links) throws IOException {
 
-
+        //TODO
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String infoJson = gson.toJson(information);
         Path fileName = Path.of(InfoJsonPath);
@@ -143,5 +143,4 @@ public class HHelperController {
         Files.writeString(fileName, infoJson);
         return information;
     }
-
 }
